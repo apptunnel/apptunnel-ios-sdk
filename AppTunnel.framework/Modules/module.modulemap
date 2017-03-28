@@ -1,0 +1,6 @@
+framework module AppTunnel {
+  umbrella header "AppTunnel.h"
+
+  export *
+  module * { export * }
+}
