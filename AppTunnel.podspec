@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/apptunnel/apptunnel-ios-sdk.git", :tag => "#{s.version}" }
   s.platform = :ios, '8.0'
   s.preserve_paths = 'AppTunnel.framework'
-  s.source_files = s.public_header_files = "AppTunnel.framework/**/*.h"
+  s.source_files = s.public_header_files = "AppTunnel.framework/Headers/AppTunnel.h"
   s.vendored_frameworks = "AppTunnel.framework"
 end
