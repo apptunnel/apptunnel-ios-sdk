@@ -8,7 +8,7 @@
 #import "ATABTestVariation.h"
 #import "ATFeatureFlagResult.h"
 #import "ATFeatureFlagVariation.h"
-#import "ATNetwork.h"
+#import "ATSettings.h"
 
 typedef void (^AppTunnelFetchDoneBlock)(NSArray *abTests, NSArray *featureFlags, NSError *error);
 
