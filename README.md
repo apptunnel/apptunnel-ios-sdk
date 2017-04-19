@@ -4,7 +4,7 @@
 
 # apptunnel-ios-sdk
 
-_AppTunnel is a mobile A/B Testing and Feature Flags platform that helps you securely improve engagements and performance of your iOS and Android mobile apps. _
+_AppTunnel is a mobile A/B Testing and Feature Flags platform that helps you securely improve engagements and performance of your iOS and Android mobile apps._
 
 ## Usage
 
